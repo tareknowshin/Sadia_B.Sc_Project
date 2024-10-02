@@ -2,7 +2,7 @@
 library(tidyverse)
 library(finalfit)
 
-project_data <- read.csv("C:\\Users\\USER\\OneDrive\\Playing R!!!\\Data Storehouse\\project_data.csv", header = TRUE)
+project_data <- read.csv("C:\\Users\\USER\\OneDrive\\Playing R\\Sadia Project\\project_data.csv", header = TRUE)
 
 glimpse(project_data)
 
