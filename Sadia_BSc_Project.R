@@ -90,25 +90,3 @@ ggplot(combined_df, aes(x = Factor, y = Percentage, fill = Category)) +
   labs(x = "Socio-economic factors", 
        y = "Percentage (%)", 
        title = "Percentage of different socio-economic factors")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
